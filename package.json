@@ -1,0 +1,19 @@
+{
+  "name": "integrity-link-extractor",
+  "version": "1.0.0",
+  "description": "Extract the URLs from an Integrity app link scan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirhodes/integrity-link-extractor.git"
+  },
+  "author": "Seth Rhodes <seth@thinkpixbit.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirhodes/integrity-link-extractor/issues"
+  },
+  "homepage": "https://github.com/sirhodes/integrity-link-extractor#readme"
+}
