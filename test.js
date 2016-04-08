@@ -5,6 +5,6 @@ test('linkExtractor function exists', t => {
   t.is(typeof linkExtractor, 'function');
 });
 
-test('takeScreenshot takes 1 arguments', t => {
+test('linkExtractor takes 1 arguments', t => {
   t.is(linkExtractor.length, 1);
 });
